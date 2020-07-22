@@ -16,12 +16,12 @@ I like to travel and make new friends and gain a different perspective on life.
 
 
 ### Career Snapshot:
- As a Senior Technical Lead, lead Technical Leads to develop and maintain a legacy system.
- As a Software Engineering Manager, created an autonomous and agile software development culture.
- As a Lead Engineer, re-engineered cross platform global remittance.
- As a Lead Software Engineer, completed back end applications of ACH processing system.
- As a Senior Software Engineer, delivered many eCommerce projects.
- As a Software Engineer, developed web based travel and tourism MIS application.
+- As a Senior Technical Lead, lead Technical Leads to develop and maintain a legacy system.
+- As a Software Engineering Manager, created an autonomous and agile software development culture.
+- As a Lead Engineer, re-engineered cross platform global remittance.
+- As a Lead Software Engineer, completed back end applications of ACH processing system.
+- As a Senior Software Engineer, delivered many eCommerce projects.
+- As a Software Engineer, developed web based travel and tourism MIS application.
  
  
 `Happy Living! Happy Learning! Happy Coding!`

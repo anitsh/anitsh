@@ -24,6 +24,6 @@ I like to travel and make new friends and gain a different perspective on life.
 - As a Software Engineer, developed web based travel and tourism MIS application.
  
  
-`Happy Living! Happy Learning! Happy Coding!`
+`Happy Living! Happy Learning! Happy Coding!` #StayHungry #StayFoolish
 
 > Feel free to [ask me anything](https://github.com/codeanit/ama/issues)

@@ -25,3 +25,5 @@ I like to travel and make new friends and gain a different perspective on life.
  
  
 `Happy Living! Happy Learning! Happy Coding!`
+
+> Feel free to [ask me anything](https://github.com/codeanit/ama/issues)

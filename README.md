@@ -6,7 +6,7 @@ I am a hands on code software engineer with more than 10 years of experience lea
 
 I am interested in Domain Driven Design, Distributed Systems, Linux, Containers, Automation, Security and Network. 
 
-I relate "Title" with the role I have played in the organizations that I have worked with, and what I have achieved there, nothing more. Growth, and growth opportunity matters much more to me. 
+I relate "Title" with the role I have played in the organizations that I have worked with, and what I have achieved there, nothing more. Community, cultuer and growth opportunity matters much more to me.
 
 The meaning of "Growth" to me is not about how many languages I know or frameworks I have used. It's about how deeply I have understood the fundamentals of Computer Science, how effectively I have used Data Structures, Algorithms, Design Principles, Patterns, and Architectures to solve problems at hand, and how well I have implemented best practices to reduce technical debts by learning, sharing and helping others become better at what they do.
 

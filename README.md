@@ -27,3 +27,4 @@ I like to travel and make new friends and gain a different perspective on life.
 `Happy Living! Happy Learning! Happy Coding!` #StayHungry #StayFoolish
 
 > Feel free to [ask me anything](https://github.com/codeanit/ama/issues)
+> And if you believe I'm adding some value to you then feel free to [buy me a coffee](https://www.buymeacoffee.com/anit).

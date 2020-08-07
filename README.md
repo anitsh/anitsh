@@ -1,30 +1,33 @@
-### NOW: I am connecting with people, preparing for interviews, looking for another great place to shine.
 
 
-### About Me
-I am a hands on code software engineer with more than 10 years of experience leading agile teams in various domains designing, developing and delivering value added systems. 
-
-I am interested in Domain Driven Design, Distributed Systems, Linux, Containers, Automation, Security and Network. 
-
-I relate "Title" with the role I have played in the organizations that I have worked with, and what I have achieved there, nothing more. Community, culture and growth opportunity matters much more to me.
-
-The meaning of "Growth" to me is not about how many languages I know or frameworks I have used. It's about how deeply I have understood the fundamentals of Computer Science, how effectively I have used Data Structures, Algorithms, Design Principles, Patterns, and Architectures to solve problems at hand, and how well I have implemented best practices to reduce technical debts by learning, sharing and helping others become better at what they do.
-
-Hence, I am not an expert. I am continuously learning, implementing it, sharing my knowledge and understanding, and looking forward to growth.  
-
-I like to travel and make new friends and gain a different perspective on life.
+`“Any fool can know. The point is to understand.” - Albert Einstein`
 
 
-### Career Snapshot:
-- As a Senior Technical Lead, lead Technical Leads to develop and maintain a legacy system.
-- As a Software Engineering Manager, created an autonomous and agile software development culture.
-- As a Lead Engineer, re-engineered cross platform global remittance.
-- As a Lead Software Engineer, completed back end applications of ACH processing system.
-- As a Senior Software Engineer, delivered many eCommerce projects.
-- As a Software Engineer, developed web based travel and tourism MIS application.
- 
- 
-`Happy Living! Happy Learning! Happy Coding!` #StayHungry #StayFoolish
+
+# Anit Shrestha Manandhar
+## More Than Years Experienced Hands-on Code Software Engineer
+
+> Software engineers apply engineering principles to build software and systems to solve problems. They use modeling language and other tools to devise solutions that can often be applied to problems in a general way, as opposed to merely solving for a specific instance or client. Software engineering solutions adhere to the scientific method and must work in the real world, as with bridges or elevators. - IBM
+
+
+### I Try To Keep Up With Tech-Trend But I Keep The Basics Close To My Heart.
+> Tech Change Basics Remain - Anit Shrestha Manandhar
+
+
+
+### Not Finding Anything Useful?
+This account started to get cluttered so am cleaning up this account.
+
+I keep projects and open-source contributions separated. You can find relevant repositories listed in the organization:
+- github.com/javacheatsheet
+- https://github.com/csharpcheatsheet
+- https://github.com/php-cheatsheet
+- https://github.com/gocheatsheet
+- https://github.com/typescriptcheatsheet
+- https://github.com/reactcheatsheet
+
+And many others.. I am working to make it easier to navigate soon in the future.
+
 
 > Feel free to [ask me anything](https://github.com/codeanit/ama/issues).
 > And if you believe I'm adding some value to you then feel free to [buy me a coffee](https://www.buymeacoffee.com/anit).

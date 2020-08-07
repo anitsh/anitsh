@@ -30,18 +30,11 @@ And that is **growth** as a `Software Engineer`, not the years just spent hammer
 - Understand `Growth` is a natural process. Breath! Take your time! Look at a `Tree`
 
 
-
 ### Not Finding Anything Useful?
 This account started to get cluttered so am cleaning up this account.
-I keep projects and open-source contributions separated. You can find relevant repositories listed in the organization:
-- github.com/javacheatsheet
-- https://github.com/csharpcheatsheet
-- https://github.com/php-cheatsheet
-- https://github.com/gocheatsheet
-- https://github.com/typescriptcheatsheet
-- https://github.com/reactcheatsheet
+I keep projects and open-source contributions separated. You can find relevant repositories for [Java](https://github.com/javacheatsheet), [C#](https://github.com/csharpcheatsheet),[PHP](https://github.com/php-cheatsheet), [Golang](https://github.com/gocheatsheet), [TypeScript](https://github.com/typescriptcheatsheet), [React](https://github.com/reactcheatsheet)... There are many more which I will be listing out for easy understandging later.
 
-And many others.. I am working to make it easier to navigate soon in the future.
+[Trello](https://trello.com/b/GGhug4Bh/dev-journey) used to be my learning management system before. Now, I use [Github](https://github.com/codeanit/til/issues). Both have their own values.
 
 
 > Feel free to [ask me anything](https://github.com/codeanit/ama/issues).

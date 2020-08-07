@@ -1,8 +1,8 @@
 
-> “Any fool can know. The point is to understand.” - Albert Einstein
+_“Any fool can know. The point is to understand.” - Albert Einstein_
 
 
-### Who I Am? `More Than Ten Years Experienced Hands-on-Code Software Engineer`
+### Who Am I? `More Than Ten Years Experienced Hands-on-Code Software Engineer`
 
 *Software engineers apply engineering principles to build software and systems to solve problems. They use modeling language and other tools to devise solutions that can often be applied to problems in a general way, as opposed to merely solving for a specific instance or client. Software engineering solutions adhere to the scientific method and must work in the real world, as with bridges or elevators. - IBM*
 

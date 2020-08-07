@@ -2,12 +2,12 @@
 # “Any fool can know. The point is to understand.” - Albert Einstein
 
 
-### Who I Am? `More Than Ten Years Experienced Hands-on Code` **Software Engineer**
+### Who I Am? `More Than Ten Years Experienced Hands-on-Code Software Engineer`
 
 *Software engineers apply engineering principles to build software and systems to solve problems. They use modeling language and other tools to devise solutions that can often be applied to problems in a general way, as opposed to merely solving for a specific instance or client. Software engineering solutions adhere to the scientific method and must work in the real world, as with bridges or elevators. - IBM*
 
 
-### What I Believe? `Tech Change Basics Remain`
+### What I Believe? `Tech Change, Basics Remain`
 I try to keep up with *Tech-Trend* but I keep **The Basics** close to my heart.
 `Software Engineering` is a discipline which teaches how to balance **Trade-Offs**.
 In order to make a balanced decisions, the view should be broadened because if you only have a hammer, you will only see nails.

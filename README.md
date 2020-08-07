@@ -22,7 +22,7 @@ A perfect solution is a paradox in the programming world as well; There is alway
 Success in this field to me is the respect we get from our colleagues and members of the community. I believe sincerely that to be respected, first we have to learn how to respect others. The best attribute of a successful person I have seen is their humble nature. They kind and down to earth, making them easy to reach out to and share more openly. Secondly, we must always trust in ourselves, and become the hardest working person wherever we are. And last but not least, we must understand that growth is a natural process, we can’t force it so we need to take a deep breath, take our time, and neve give up on what we believe. A tree, as it gets bigger and taller as it grows, so does its roots and branches. And never forget where you have come from.
 
 
-### Not Finding Anything Useful?
+### Not finding anything useful?
 This account started to get cluttered so I am cleaning up this account.
 I keep projects and open-source contributions separated. You can find relevant repositories for [Java](https://github.com/javacheatsheet), [C#](https://github.com/csharpcheatsheet),[PHP](https://github.com/php-cheatsheet), [Golang](https://github.com/gocheatsheet), [TypeScript](https://github.com/typescriptcheatsheet), [React](https://github.com/reactcheatsheet)... There are many more which I will be listing out for easy understandging later.
 

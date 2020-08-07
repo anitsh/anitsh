@@ -5,13 +5,15 @@
 
 
 # Anit Shrestha Manandhar
-## More Than Years Experienced Hands-on Code Software Engineer
+__More Than Ten Years Experienced Hands-on Code `Software Engineer`__
 
-> Software engineers apply engineering principles to build software and systems to solve problems. They use modeling language and other tools to devise solutions that can often be applied to problems in a general way, as opposed to merely solving for a specific instance or client. Software engineering solutions adhere to the scientific method and must work in the real world, as with bridges or elevators. - IBM
+Software engineers apply engineering principles to build software and systems to solve problems. They use modeling language and other tools to devise solutions that can often be applied to problems in a general way, as opposed to merely solving for a specific instance or client. Software engineering solutions adhere to the scientific method and must work in the real world, as with bridges or elevators. - IBM
 
 
-### I Try To Keep Up With Tech-Trend But I Keep The Basics Close To My Heart.
 > Tech Change Basics Remain - Anit Shrestha Manandhar
+
+I Try To Keep Up With Tech-Trend But I Keep The Basics Close To My Heart.
+
 
 
 

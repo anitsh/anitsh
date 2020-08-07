@@ -23,10 +23,12 @@ Success in this field to me is the respect we get from our colleagues and member
 
 
 ### Not finding anything useful?
-This account started to get cluttered so I am cleaning up this account.
-I keep projects and open-source contributions separated. You can find relevant repositories for [Java](https://github.com/javacheatsheet), [C#](https://github.com/csharpcheatsheet),[PHP](https://github.com/php-cheatsheet), [Golang](https://github.com/gocheatsheet), [TypeScript](https://github.com/typescriptcheatsheet), [React](https://github.com/reactcheatsheet)... There are many more which I will be listing out for easy understandging later.
+I am cleaning up this account! I keep projects and open-source contributions separate.
 
-[Trello](https://trello.com/b/GGhug4Bh/dev-journey) used to be my learning management system before. Now, I use [Github](https://github.com/codeanit/til/issues). Both have their own values.
+You can find relevant repositories for [Java](https://github.com/javacheatsheet), [C#](https://github.com/csharpcheatsheet),[PHP](https://github.com/php-cheatsheet), [Golang](https://github.com/gocheatsheet), [TypeScript](https://github.com/typescriptcheatsheet), [React](https://github.com/reactcheatsheet). More will be listed later.
+
+
+[Trello](https://trello.com/b/GGhug4Bh/dev-journey) used to be my learning management system before. Now I use [Github](https://github.com/codeanit/til/issues). But both has their own values.
 
 
 > Feel free to [ask me anything](https://github.com/codeanit/ama/issues).

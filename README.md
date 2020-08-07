@@ -15,18 +15,20 @@ The biggest challenge in this profession is to understand the techniques and use
 And that is **growth** as a `Software Engineer`, not the years just spent hammering everything that came close.
 
 
-### Understanding The Basics And Following The Best Practices Are My Remedy To Become A Sound Engineer
-- If you do not have the foundation of `Computer Science` and `Basics Mathematics`, ** DON'T READ BELOW!**
+### What Are My Remedies To Become A Sound Engineer? `I Don't Know Everything`
+- If you don't have the foundation of `Computer Science` and `Basics Mathematics`, **DON'T READ BELOW!**
 - `Data Structures` are the **Tools**
 - `Algorithms` are the **Techniques**
-- `Programming Languages` provides  the **Context** where those tools and techniques can be used. Else you will be hammering no matter!
+- `Programming Languages` provides the **Context** where those tools and techniques can be used. Else you will be hammering no matter!
 - `Object Oriented Programming` is not a just programming language that uses **Class** keyword. Everything lives and dies here, understand that. LIke us, they have relationships.
 - `Perfect Solution Is A Paradox!` There is always a give and take; you may just not know it yet. Sincere sentiments from Grady Booch
 - `Design Principles, Design Patterns and Architectures` are historical artifacts that helps to ease some pain solving the paradox
 - Follow `Best Practices`
 - Respect `Seniors`
 - **Be Humble!**
-- Growth is a natural process. Breath! Take your time! Look at a `Tree` 
+- Be that harderst working person
+- Understand `Growth` is a natural process. Breath! Take your time! Look at a `Tree`
+
 
 
 ### Not Finding Anything Useful?

@@ -1,5 +1,5 @@
 
-# “Any fool can know. The point is to understand.” - Albert Einstein
+> “Any fool can know. The point is to understand.” - Albert Einstein
 
 
 ### Who I Am? `More Than Ten Years Experienced Hands-on-Code Software Engineer`

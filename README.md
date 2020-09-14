@@ -25,7 +25,7 @@ A perfect solution is a paradox in the programming world as well; There is alway
 ***Don't Be A Know It All, [The Mythical 10x Programmer](http://antirez.com/news/112)***
 Success in this field to me is the respect we get from our colleagues and members of the community. I sincerely believe that, to be respected, first we have to learn how to respect others. The best attributes of the successful personalities I have known are their humble nature. They are kind and down to earth, making them easy to reach out to, and share more things openly. Secondly, we must always trust in ourselves, prove to ourselves, and become the hardest working person wherever we are. And last but not least, we must understand that growth is a natural process, we can’t force it so we need to take a deep breath, take our time, and neve give up on what we believe. A tree, as it gets bigger and taller as it grows, so does its roots and branches. And never forget where you have come from.
 
-##### Nothing beats direct experience. Just do it!
+##### When in doubt, go closer, get direct experience, just do it!
 
 ### Not finding anything useful?
 I am cleaning up this account! I keep projects and open-source contributions separate.

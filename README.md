@@ -2,19 +2,20 @@
 _“Any fool can know. The point is to [understand](https://nabeelqu.co/understanding).” - Albert Einstein_
 
 
-### Who am I? 
-I am a software engineer with more than ten years of hands-on software design and development experience.
+### Who I am? 
+
+I am a software engineer with more than ten years of hands-on software design and development experience. 
 
 *Software engineers apply engineering principles to build software and systems to solve problems. They use modeling language and other tools to devise solutions that can often be applied to problems in a general way, as opposed to merely solving for a specific instance or client. Software engineering solutions adhere to the scientific method and must work in the real world, as with bridges or elevators. - IBM*
 
-I view Software Engineering as a discipline that teaches us how to balance the trade-offs that exist in every possible solution we are trying to find. An experienced software engineer is the one who understands the outcome of those trade-offs and takes the best course of action to solve the problem using appropriate tools and techniques where and when needed. A good read - No Silver Bullet —Essence and Accident in Software Engineering Frederick P. Brooks, Jr., 1986.
+I view Software Engineering as a discipline that teaches us how to balance the trade-offs that exist in every possible solution. An experienced software engineer is the one who understands the outcome of those trade-offs and takes the best course of action to solve the problem using appropriate tools and techniques where and when needed. A good read - No Silver Bullet —Essence and Accident in Software Engineering Frederick P. Brooks, Jr., 1986.
 
 I try to keep up with tech-trend but I keep basics close to my heart.
 
 ### How to become good at software engineering?
 
 ***Be Passionate***
-First and foremost, Software Engineering is my passion and that deep desire to be better at what I do drives me, what I am today, and where I want to be. So the person has to be passionate about it.
+First and foremost, Software Engineering is my passion and that deep desire to be better at what I do drives me, what I am today, and where I want to be. So I believe one has to be passionate about the subject or in techology in general and how things work. 
 
 ***Pursue Basics, Tech Change Basics Remain***
 I believe that deep knowledge and understanding of Computer Science and Mathematics are the foundations that every software engineer needs to grow deeper and strengthen as their career progresses, not the other way around. Data Structures are the tools, and Algorithms are the techniques that they must know and how to use appropriately to solve problems effectively and efficiently in the context of the Programming Language used, else we will be just hammering everything everywhere and literally making the Earth flat. Object-oriented Programming is not just about a programming language that has the “Class” keyword but it is rather a perspective to relate things with the real world where nothing is perfect, so we just try to find a good balance. 

@@ -5,17 +5,18 @@
 
 _“Any fool can know. The point is to [understand](https://nabeelqu.co/understanding).” - Albert Einstein_
 
-***Be Passionate***
-***Pursue Basics, Tech Change Basics Remain***
-***Review Artifacts, Don't Make [A Big Bowl Of Mud](https://en.wikipedia.org/wiki/Big_ball_of_mud)***
-***Don't Be A Know It All, [The Mythical 10x Programmer](http://antirez.com/news/112)***
+# s°
+**Be Passionate**
+**Pursue Basics,Tech Change Basics Remain**
+**Review Artifacts, Don't Make [A Big Bowl Of Mud](https://en.wikipedia.org/wiki/Big_ball_of_mud)**
+**Don't Be A Know It All, [The Mythical 10x Programmer](http://antirez.com/news/112)**
 
 
-##### WHEN IN DOUBT, GO CLOSER, GET DIRECT EXPERIENCE. JUST DO IT! LOL
+# WHEN IN DOUBT, GO CLOSER, GET DIRECT EXPERIENCE. JUST DO IT! LOL
 
 
 
-### Not finding anything useful?
+# Not finding anything useful?
 I am cleaning up this account! I keep projects and open-source contributions separate.
 
 You can find relevant repositories for [Java](https://github.com/javacheatsheet), [C#](https://github.com/csharpcheatsheet),[PHP](https://github.com/php-cheatsheet), [Golang](https://github.com/gocheatsheet), [TypeScript](https://github.com/typescriptcheatsheet), [React](https://github.com/reactcheatsheet). More will be listed later.

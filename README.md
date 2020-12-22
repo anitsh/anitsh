@@ -5,10 +5,11 @@
 # s°
 ![](https://pbs.twimg.com/media/EoUwhU-U4AAb5V8?format=png&name=large)
 
-**Be Passionate**.**Pursue Basics,Tech Change Basics Remain**.**Review Artifacts, Don't Make [A Big Bowl Of Mud](https://en.wikipedia.org/wiki/Big_ball_of_mud)**.**Don't Be A Know It All, [The Mythical 10x Programmer](http://antirez.com/news/112)**
+**Be Passionate**. **Pursue Basics,Tech Change Basics Remain**. **Review Artifacts, Don't Make [A Big Bowl Of Mud](https://en.wikipedia.org/wiki/Big_ball_of_mud)**.**Don't Be A Know It All, [The Mythical 10x Programmer](http://antirez.com/news/112)**
 
 
-# WHEN IN DOUBT, GO CLOSER, GET DIRECT EXPERIENCE. JUST DO IT! LOL
+# WHEN IN DOUBT, GO CLOSER, GET DIRECT EXPERIENCE. JUST DO IT! AND LOL.
+![](https://hbr.org/resources/images/article_assets/2017/05/may17-10-691036999.jpg)
 
 # Not finding anything useful? Who cares...
 Though shall feel free to [buy me a coffee](https://www.buymeacoffee.com/anit).

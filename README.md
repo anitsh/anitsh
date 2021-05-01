@@ -1,9 +1,11 @@
 
 
-An open-minded, easy to approach, detail oriented, 10+ years experienced back-end developer with competitive programming skills in multiple programming languages and frameworks displaying successful history of delivering small, medium  and enterprise scale, mission-critical, commercial and scalable systems by mentoring, coaching, leading varying sizes of the teams in multiple business domains interested in distributed systems and Linux who is a strong advocate for clean code and best engineering practices as that there is no silver bullet and different tasks require different tools.
+An advocate for clean code and best engineering practices, 10+ years experienced result oriented back-end developer, a competitive polyglot programmer with the history of delivering small, medium and enterprise scale, mission critical, commercial and scalable systems in multiple business domains through mentoring, coaching, leading varying sizes of the teams. I am interested in Linux and distributed systems. There is no one silver bullet to all the systems problems and different tasks require different tools, different perspectives, so, I am in a continuous learning journey. 
+
+Amor fati.
 
 
-# Code Is The Ultimate Truth 
+### Code Is The Ultimate Truth 
 
 
 Good programmers are a little bit lazy. 
@@ -24,7 +26,7 @@ alignment than with local excellence.
 — Don Reinertsen
 
 
-[Ask me anything!](https://github.com/codeanit/ama)
+[Ask me anything!](https://github.com/codeanit/ama/issues/new)
 
 
 

@@ -2,7 +2,7 @@ An advocate for clean code and best engineering practices, 10+ years experienced
 
 I believe that there is no silver bullet for all systems problems, different tasks requires different tools, so a change in perspective is needed for every instance in order to find a fitting solution and the only way I see it possible through continuous learning. There are so many things to learn but I am more interested in Linux and distributed systems.
 
-Amor fati.
+Amor fati 🌱
 
 ---
 

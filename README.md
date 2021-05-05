@@ -1,6 +1,6 @@
-An advocate for clean code and best engineering practices, 10+ years experienced result oriented back-end developer, a competitive polyglot programmer with the history of delivering small, medium and enterprise scale, mission critical, commercial and scalable systems in multiple business domains through mentoring, coaching, leading varying sizes of the teams.  
+An advocate for clean code and best engineering practices, 10+ years experienced result oriented back-end developer, a competitive polyglot programmer, with the history of delivering small, medium and enterprise scale, mission critical, commercial and scalable systems in multiple business domains through mentoring, coaching, leading varying sizes of the teams.
 
-I believe that there is no silver bullet for all systems problems, different tasks requires different tools, so a change in perspective is needed for every instance in order to find a fitting solution and the only way I see it possible through continuous learning. There are so many things to learn but I am more interested in Linux and distributed systems.
+I believe that there is no silver bullet for all systems problems, different tasks requires different tools, so a change in perspective is needed for every instance in order to find a fitting solution and the only way that is possible is through continuous learning. I am interested in Linux and distributed systems.
 
 Amor fati 🌱
 

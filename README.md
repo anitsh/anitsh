@@ -4,10 +4,9 @@ I believe that there is no silver bullet for all systems problems, different tas
 
 Amor fati 🌱
 
----
 
-### Code Is The Ultimate Truth 
 
+### CODE IS THE ULTIMATE TRUTH 
 
 Good programmers are a little bit lazy. 
 They sit back and wait for an insight 
@@ -20,11 +19,9 @@ comes only with the experience of solving
 problems and reflecting on their solutions.
 — Programming Pearls, 2nd Edition
 
-
-Principle of Alignment: 
 There is more value created with overall 
 alignment than with local excellence. 
-— Don Reinertsen
+— Principle of alignment by Don Reinertsen
 
 
 [Ask me anything!](https://github.com/codeanit/ama/issues/new)

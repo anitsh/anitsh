@@ -16,6 +16,7 @@ alignment than with local excellence.
 — Principle of alignment by Don Reinertsen
 
 
+![image](https://user-images.githubusercontent.com/414141/120889797-8eadb780-c61e-11eb-86e9-d513f3f76700.png)
 [Ask me anything!](https://github.com/codeanit/ama/issues/new)
 
 

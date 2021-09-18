@@ -1,4 +1,15 @@
-### CODE IS THE ULTIMATE TRUTH 
+# CODE IS THE ULTIMATE TRUTH 
+
+Software design is an art, and like any art it cannot be taught and 
+learned as a precise science, by means of theorems and formulas. 
+We  can  discover  principles  and  techniques  useful  to  be  applied 
+throughout  the  process  of  software  creation,  but  we  probably 
+won’t  ever  be  able  to  provide  an  exact  path  to  follow  from  the 
+real  world  need  to  the  code  module  meant  to  serve  that  need. 
+Like  a picture or a building, a software product  will include the 
+personal touch of those who designed and developed it, 
+something  of  the  charisma  and  flair  (or  the  lack  of  it)  of  those 
+who contributed to its inception and growth.
 
 Good programmers are a little bit lazy. 
 They sit back and wait for an insight 

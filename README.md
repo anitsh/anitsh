@@ -11,6 +11,12 @@ personal touch of those who designed and developed it,
 something  of  the  charisma  and  flair  (or  the  lack  of  it)  of  those 
 who contributed to its inception and growth.
 
+The  design  has  to  be  flexible.  A  stiff  design  resists  refactoring. 
+Code  that  was  not  built  with  flexibility  in  mind  is  code  hard  to 
+work  with.  Whenever  a  change  is  needed,  you’ll  see  the  code 
+fighting  you,  and  things  that  should  be  refactored  easily  take  a 
+lot of time. 
+
 Good programmers are a little bit lazy. 
 They sit back and wait for an insight 
 rather than rushing forward with their 

@@ -24,8 +24,8 @@ comes only with the experience of solving
 problems and reflecting on their solutions._
 — Programming Pearls, 2nd Edition
 
--There is more value created with overall 
-alignment than with local excellence._ 
+_**There is more value created with overall 
+alignment than with local excellence.**_ 
 — Principle of alignment by Don Reinertsen
 
 # Code Is The Ultimate Truth

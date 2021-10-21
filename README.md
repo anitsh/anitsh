@@ -2,7 +2,7 @@
 
 **As a software solutions consultant, I work closely with my clients to understand their business, identify their problems and gain their trust to help solve those problems.**
 
-Remember to get a thorough consultation before making any investment in your software assests. It will save you time, money and a lot of headaches later.
+Remember to get a thorough consultation before making any investment in your software assets. It will save you time, money and a lot of headaches later.
 
 
 # Build Quality Software

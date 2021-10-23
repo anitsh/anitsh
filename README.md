@@ -6,7 +6,9 @@ Remember to get a thorough consultation before making any investment in your sof
 
 
 # Build Quality Software
-Software development is an iterative process. Fast-feedback short-cycled iteration with team-review and retrospective should be used as the tools to uplift skills of the team members and it is the only way improve the quality of the software product becuase software development is a team-sport as it requries teams with talented individuals to design, develop and deliver software with adequate functional qualities.
+Software development is a team-sport as it requries contribution of talented individuals to design, develop and deliver software with adequate functional qualities. 
+
+It is an iterative process which builds quality into the software. Fast-feedback short-cycled iterations with team-review and retrospective should be used as the tools to uplift skills of the team members as it is the only way to improve the quality of the software product with enhanced functionalities.
 
 Software design is an art, and like any art it cannot be taught and learned as a precise science, by means of theorems and formulas. We can discover principles and techniques useful to be applied throughout the process of software creation, but we probably won’t ever be able to provide an exact path to follow from the real world need to code the module meant to serve that need. As the needs change, the systems has to adapt quickly, so we need to make the design flexible as the stiff design resists refactoring and the code that was not built with flexibility in mind will be hard to work.
 

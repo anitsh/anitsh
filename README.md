@@ -5,7 +5,7 @@
 Remember to get a thorough consultation before making any investment in your software assets. It will save you time, money and a lot of headaches later.
 
 
-# Build Quality Software
+# Building Quality Software
 Building quality software is an iterative process and it's all about team work that requries contribution from domain experts with various skills to design, develop and deliver the product with adequate capabilities. The collaboration among business and technical people must be succinct inorder to identify and pinpoint the problems and solve them as a unit.
 
 Quality does not come cheap. One of the major cost is 100% dedication to the idea and contribution from each and every member. A demotived individual who does not believe in success as a part of the team can become the weakspot, therefore, the leadership must be strong to unite and drive the team. The process must be focused on improving and uplifting the skills of team to enable it's members to deliver better quality product. Fast-feedback, short-cycled iterations to release product quickly with team unbiased review and retrospective should be used improve the process and individuals that helps to add quality sequentially.

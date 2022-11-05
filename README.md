@@ -5,3 +5,6 @@ The most basic general technique to design versatile system is by designing all 
 Design components that are self-contained, independent, and with a single, well-defined purpose. 
 
 — The Pragmatic Programmer
+
+
+Ask me anything https://github.com/anitsh/ama/issues

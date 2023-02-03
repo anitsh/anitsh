@@ -7,7 +7,7 @@ Design components that are self-contained, independent, and with a single, well-
 — The Pragmatic Programmer
 
 
-**Most important thing in computer science is problem decomposition. How do we take a complicated problem and break it them down into pieces that we can build relatively independently.**
+The most important skill in programming is problem decomposition. How do we take a complicated problem and break it them down into pieces that we can build relatively independently.
 
 
 Ask me anything https://github.com/anitsh/ama/issues

@@ -7,7 +7,7 @@ Design components that are self-contained, independent, and with a single, well-
 — The Pragmatic Programmer
 
 
-The most important skill in programming is problem decomposition. How do we take a complicated problem and break it them down into pieces that we can build relatively independently.
+The most important skill in programming is problem decomposition: How we view a problem and break it down into pieces so that we can build the solutions relatively independently, and easily, thinking about its maintainability as one of the primary objectives.
 
 
 Ask me anything https://github.com/anitsh/ama/issues
